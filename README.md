@@ -1,11 +1,11 @@
 ## Seja bem vinda (o)! 💖
-Meu nome é Luana Araújo
+-Meu nome é Luana Araújo
 
-Estou estudando na Alura
+-Estou estudando na Alura
 
-Estou me desenvolvendo na linguagem JavaScript e no Scratch
+-Estou me desenvolvendo na linguagem JavaScript e no Scratch
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ## Você pode entar em contato comigo ✍
 00001117328533sp@al.educacao.sp.gov.br
